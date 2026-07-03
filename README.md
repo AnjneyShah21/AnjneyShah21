@@ -51,7 +51,7 @@ public:
 
     string college = "R. V. College of Engineering";
 
-    string role = "Software Engineer";
+    string role = "Future Software Engineer";
 
     string achievement =
     "🥇 Winner - Hack4Soc 3.0 All India Hackathon";
