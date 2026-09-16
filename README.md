@@ -1,184 +1,113 @@
-<!-- =========================
-     ANJNEY ROHIT SHAH
-========================= -->
+<!-- ============================================================
+     ANJNEY ROHIT SHAH — GitHub Profile README
+     ============================================================ -->
 
-<p align="center">
+<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Anjney%20Rohit%20Shah&fontSize=55&fontAlignY=35&animation=twinkling&fontColor=ffffff&desc=Software%20Engineer%20•%20AI%20Developer%20•%20Hack4Soc%203.0%20Winner&descAlignY=58&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,100:2c5364&height=200&section=header&text=Anjney%20Rohit%20Shah&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=55" width="100%"/>
 
-</p>
+</div>
 
-<h1 align="center">
+<h3 align="center">Software Engineer, building things that actually ship</h3>
 
-Hi 👋 I'm <b>Anjney Rohit Shah</b>
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Hack4Soc+3.0+Winner;RV+College+of+Engineering;Trying+to+understand+LLMs+one+paper+at+a+time" />
+</div>
 
-</h1>
+<br/>
 
-<h3 align="center">
+I'm Anjney, a student at R. V. College of Engineering. Most of what I do lives somewhere between backend systems and AI — I like the part of engineering where a design decision on paper turns into something that has to survive real traffic, real users, and real edge cases.
 
-Software Engineer • Full Stack Developer • AI Enthusiast
+Last year I put a team together for Hack4Soc 3.0, an all-India hackathon, and we ended up winning it. That's probably the thing on this profile I'm proudest of, mostly because of how much broke in the 30 hours before it worked.
 
-</h3>
+---
 
-<p align="center">
+### What I've been working with
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=700&size=24&pause=1000&center=true&vCenter=true&width=850&color=00F7FF&lines=Hack4Soc+3.0+🥇+Winner;RV+College+of+Engineering;Full+Stack+Developer;Artificial+Intelligence+Enthusiast;Always+Building+Cool+Stuff"/>
+<div align="center">
 
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,java,python,javascript,typescript,react,nextjs,nodejs,express,tailwind,mongodb,postgres,mysql,firebase,docker,aws,git,github,linux,figma" />
 
-<p align="center">
+</div>
 
-<a href="https://github.com/AnjneyShah21">
-<img src="https://img.shields.io/github/followers/AnjneyShah21?style=for-the-badge&logo=github"/>
-</a>
+I spend most of my time in the JavaScript/TypeScript ecosystem for product work, and reach for Python or C++ when something needs to be closer to the metal or involves a model.
 
-<a href="https://www.linkedin.com/in/anjney-rohit-shah-92337a377/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+---
 
-<img src="https://komarev.com/ghpvc/?username=AnjneyShah21&style=for-the-badge&color=blue"/>
+### Right now I'm reading up on / building with
 
-</p>
+- System design at a level beyond "draw boxes on a whiteboard" — actual failure modes, actual tradeoffs
+- Retrieval and agent architectures, mostly by breaking my own small projects
+- Getting more disciplined about Docker and deployment instead of treating it as an afterthought
+- Cloud infra basics on AWS, learned by paying for my own mistakes
 
-# 🚀 About Me
+---
 
-<img align="right" width="320" src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif"/>
+### A rough sketch of how I think about my stack
 
 ```cpp
 class Anjney {
+private:
+    std::string college   = "R. V. College of Engineering";
+    std::string focus     = "backend systems + AI";
 
 public:
+    std::string standout_moment() {
+        return "Won Hack4Soc 3.0 with a team I put together two weeks prior";
+    }
 
-    string college = "R. V. College of Engineering";
-
-    string role = "Future Software Engineer";
-
-    string achievement =
-    "🥇 Winner - Hack4Soc 3.0 All India Hackathon";
-
-    vector<string> interests = {
-
-        "Artificial Intelligence",
-
-        "Full Stack Development",
-
-        "Backend Engineering",
-
-        "System Design"
-
-    };
-
+    std::vector<std::string> currently_exploring() {
+        return {"LLM tooling", "system design", "cloud infra"};
+    }
 };
 ```
 
-### 👨‍💻 A little about me
-
-- 🎓 Student at **R. V. College of Engineering**
-- 🥇 Winner — **Hack4Soc 3.0 All India Hackathon**
-- 💻 Passionate about building scalable software
-- 🤖 Exploring AI, LLMs & Automation
-- 🚀 Love creating products that solve real-world problems
-- 🌱 Always learning something new
 ---
 
-# 📊 GitHub Analytics
+### GitHub, in numbers
 
-<p align="center">
+<div align="center">
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=AnjneyShah21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjneyShah21&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AnjneyShah21&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<div align="center">
+<img src="https://streak-stats.demolab.com?user=AnjneyShah21&theme=tokyonight&hide_border=true" />
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnjneyShah21&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=AnjneyShah21&theme=tokyonight&hide_border=true"/>
-
-</p>
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjneyShah21&theme=tokyo-night&hide_border=true" width="90%" />
+</div>
 
 ---
 
-# 📈 Contribution Graph
+### Contribution snake
 
-<p align="center">
+This one updates automatically every day through a scheduled GitHub Action — it eats through my commit graph.
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AnjneyShah21&theme=tokyo-night&hide_border=true"/>
+<!--START_SECTION:snake-->
+<div align="center">
+<img src="https://raw.githubusercontent.com/AnjneyShah21/AnjneyShah21/output/github-contribution-grid-snake-dark.svg" />
+</div>
+<!--END_SECTION:snake-->
 
-</p>
-
----
-# 🛠 Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,javascript,typescript"/><br><br>
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,tailwind"/><br><br>
-
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase"/><br><br>
-
-<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux,vscode,figma"/>
-
-</p>
+> Note: the snake animation needs a small GitHub Action set up on this repo to generate the SVG daily. If you haven't added it yet, search "platane/snk" on GitHub — it's a five-minute setup and it's what powers the animation above.
 
 ---
 
-# 🌱 Currently Learning
+### Get in touch
 
-```text
-🧠 Artificial Intelligence
+I'm generally reachable and don't mind cold messages if you've got something interesting to talk about — a project, an internship lead, or just a disagreement about system design.
 
-⚙️ System Design
+<div align="center">
 
-☁️ Cloud Computing
+<a href="https://github.com/AnjneyShah21"><img src="https://skillicons.dev/icons?i=github" /></a>
+<a href="https://www.linkedin.com/in/anjney-rohit-shah-92337a377/"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
 
-🐳 Docker & DevOps
+</div>
 
-🚀 Scalable Backend Development
-```
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=AnjneyShah21&style=flat&color=58A6FF" />
+</div>
 
----
-# 🏆 Achievements
-
-🥇 **Winner — Hack4Soc 3.0 All India Hackathon**
-
-🎓 **R. V. College of Engineering**
-
-💻 Full Stack Developer
-
-🤖 Artificial Intelligence Enthusiast
-
-🚀 Passionate about building impactful software
-
-🌱 Continuously learning and improving every day.
-
-
----
-# ☕ Let's Connect
-
-<p align="center">
-
-<a href="https://github.com/AnjneyShah21">
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-</a>
-
-<a href="https://www.linkedin.com/in/anjney-rohit-shah-92337a377/">
-
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-
-</a>
-
-</p>
-
-<p align="center">
-
-⭐ Thanks for visiting my profile!
-
-If you like my projects, consider giving them a ⭐
-
-</p>
-
----
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:2c5364,100:0f2027&height=100&section=footer" width="100%"/>
